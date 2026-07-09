@@ -1,0 +1,2 @@
+pyvolleydata==1.0.2
+seaborn==0.13.2
