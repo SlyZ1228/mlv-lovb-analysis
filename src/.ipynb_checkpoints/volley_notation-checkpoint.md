@@ -4,6 +4,7 @@
 - S = Serve
 - R = Serve Receive
 - D = Dig
+- F = Freeball Pass
 - E = Set
 - A = Attacks
 - B = Block
@@ -27,25 +28,26 @@
 - =: Error. Direct mistake in reception. The team loses the point.
 
 ### Attacks (and Dig/Block Equivalent)
-- \#: 
-- +: 
-- !: 
-- /: 
-- -: 
-- =: 
+- \#: Kill, gains point (D= / B=)
+- +: Positive, good attack. Pass/block does touch it but is off (D- / B-).
+- !: Blocked, but attacking team is able to cover and replay it (B!).
+- -: Negative attack, easily dug or block-touched so that it is playable (D# / D+ / B+).
+- /: Blocked, loses point (B#).
+- =: Error, loses point.
 
 ### Digs
 - \#: Perfect pass to the setter, easily playable.
-- +: The team can play the counterattack
-- !: 
-- -: ASSUMED Negative pass (couldn't find info on volleystation), similar to receive.
+- +: Good dig, the team can play the counterattack
+- !: OK dig, some attacks not possible, like first tempo.
+- -: Negative pass, no structured attack/play possible, out of system.
 - /: Overpass, ball is sent back to the other side of the net or cannot be attacked.
 - =: Error or unsuccessful attempt, loses point.
 
 ### Blocks
-- \#: Stuff/Winning block
-- +: The ball is touched and the team can play a counterattack
-- !: The opponent team can cover and attack again
-- /: Net violation
-- =: Block-out
+- \#: Stuff/Winning block.
+- +: The block makes good contact on the ball, easily passable or hard for attackers to recover.
+- !: The opponent team can cover and attack again.
+- -: Soft contact on the ball, difficult to pass or somewhat playable for attackers.
+- /: Net violation or overreach, loses point.
+- =: Block-out, loses point.
 

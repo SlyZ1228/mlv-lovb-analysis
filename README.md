@@ -1,3 +1,5 @@
-# How much does reception/dig quality predict attack outcome in MLV and LOVB?
+# Analysis of Pass Quality in MLV and LOVB
 
-coming soon...
+MLV writeup:
+[Substack]()
+[Medium]()

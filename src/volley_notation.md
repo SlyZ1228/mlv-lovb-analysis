@@ -4,6 +4,7 @@
 - S = Serve
 - R = Serve Receive
 - D = Dig
+- F = Freeball Pass
 - E = Set
 - A = Attacks
 - B = Block
@@ -43,10 +44,10 @@
 - =: Error or unsuccessful attempt, loses point.
 
 ### Blocks
-- \#: Stuff/Winning block
-- +: The ball is touched and the team can play a counterattack
-- !: The opponent team can cover and attack again
-- -: Also replayable by opposing team (MAYBE, not much info on volleystation)
+- \#: Stuff/Winning block.
+- +: The block makes good contact on the ball, easily passable or hard for attackers to recover.
+- !: The opponent team can cover and attack again.
+- -: Soft contact on the ball, difficult to pass or somewhat playable for attackers.
 - /: Net violation or overreach, loses point.
 - =: Block-out, loses point.
 
