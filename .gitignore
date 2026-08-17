@@ -1,5 +1,5 @@
 .venv/
-.ipnyb_checkpoints/
-src/.ipnyb_checkpoints/
+.ipynb_checkpoints/
+src/.ipynb_checkpoints/
 src/figs/
 src/figure_creation.ipnyb
