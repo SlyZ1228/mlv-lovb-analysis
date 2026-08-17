@@ -2,6 +2,6 @@
 
 MLV writeup:
 
-[Substack](https://medium.com/@zayanniaz/mlv-pass-analysis-9a864484f5d2)
+[Medium](https://medium.com/@zayanniaz/mlv-pass-analysis-9a864484f5d2)
 
-[Medium]()
+[Substack (free)]()
